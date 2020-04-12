@@ -1,0 +1,10 @@
+{
+  "Name": "CheatBlackList",
+  "Author": "domsim1",
+  "Version": "0.0.1",
+  "Description": "Kick players that join with blacklisted mods",
+  "UniqueID": "domsim1.CheatBlackList",
+  "EntryDll": "CheatBlackList.dll",
+  "MinimumApiVersion": "2.10.0",
+  "UpdateKeys": []
+}
